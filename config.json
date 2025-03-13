@@ -1,0 +1,36 @@
+{
+    "presets": {
+        "Default": {
+            "horizontal_recoil": 0,
+            "vertical_recoil": 0,
+            "activation_key": "F1",
+            "toggle_key": "F2",
+            "mouse_activation": "left_click",
+            "background_file": "background.gif",
+            "rapid_fire_enabled": false,
+            "rapid_fire_key": "F3",
+            "rapid_fire_interval": 15,
+            "rapid_fire_mouse_button": "left_click",
+            "tbag_enabled": false,
+            "tbag_key": "F4",
+            "tbag_interval": 50,
+            "tbag_button": "ctrl"
+        }
+    },
+    "selected_preset": "Default",
+    "horizontal_recoil": 0.0,
+    "vertical_recoil": 10.0,
+    "activation_key": "F1",
+    "toggle_key": "F2",
+    "mouse_activation": "left_click",
+    "background_file": "C:\\Users\\jplt\\AppData\\Roaming\\MDZRecoil\\background.gif",
+    "rapid_fire_enabled": true,
+    "rapid_fire_key": "p",
+    "rapid_fire_interval": 15,
+    "rapid_fire_mouse_button": "left_click",
+    "tbag_enabled": true,
+    "tbag_key": "F4",
+    "tbag_interval": 50,
+    "tbag_button": "space",
+    "hide_toggle_key": "F6"
+}
